@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
-    density="420dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
     format="7"
-    timestamp="25622681515029"
+    timestamp="339926434182571"
     token="3915533650110327742" >
 
     <task
         name="javac"
-        duration="1309" />
+        duration="1775" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="473" />
+        duration="897" />
     <task
         name="verifier"
-        duration="122" />
+        duration="155" />
 
     <artifact
         location="E:\git\CustomWeibo\weiboSDKDemo\build\outputs\apk\weiboSDKDemo-debug.apk"
         type="MAIN" />
 
-    <build timestamp="25622681515029" >
+    <build timestamp="339926434182571" >
         <artifact
             location="E:\git\CustomWeibo\weiboSDKDemo\build\outputs\apk\weiboSDKDemo-debug.apk"
             type="MAIN" />
